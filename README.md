@@ -9,7 +9,7 @@
 
 
 - 🔭 FrontEnd Developer Intern at Compass.UOL
-- 🌱 Currently learning: <img align="center" alt="Vini-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img align="center" alt="Vini-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img align="center" alt="Vini-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+- 🌱 Currently learning: <img align="center" alt="Vini-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img align="center" alt="Vini-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 - 🤔 Feel free to send me some feedback or tips
 
 ## ⚡ Technologies
