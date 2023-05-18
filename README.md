@@ -19,8 +19,9 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevili&layout=compact&theme=outrun)](https://github.com/vimevili/github-readme-stats)<br>
-![Vimevili's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimevili&show_icons=true&theme=outrun)
+https://github-readme-stats.vercel.app/api?username=[your username]
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=[vimevili]&layout=compact&theme=outrun)](https://github.com/vimevili/github-readme-stats)<br>
+![Vimevili's GitHub stats](https://github-readme-stats.vercel.app/api?username=[vimevili]&show_icons=true&theme=outrun)
 
 
           
