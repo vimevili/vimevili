@@ -19,10 +19,6 @@
   </a>
 </p>
 
-https://github-readme-stats.vercel.app/api?username=[your username]
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=[vimevili]&layout=compact&theme=outrun)](https://github.com/vimevili/github-readme-stats)<br>
-![Vimevili's GitHub stats](https://github-readme-stats.vercel.app/api?username=[vimevili]&show_icons=true&theme=outrun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevili&size_weight=0.5&count_weight=0.5&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Vimevili's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimevili&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
-
-          
-          
