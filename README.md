@@ -19,6 +19,6 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevili&hide=html,css&size_weight=0.5&count_weight=0.5&theme=outrun&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevili&hide=html,css,java&size_weight=0.5&count_weight=0.5&theme=outrun&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 [![Vimevili's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimevili&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
