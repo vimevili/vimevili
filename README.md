@@ -1,6 +1,6 @@
 <h1 align="center"> 🏳️‍🌈 Welcome 🏳️‍🌈 </h1> 
 
-<p align="center">Hi there, I'm Vinicius, 24y, a former psychologist who turned my life upside down to become a dev. Hope we can have fun together on this journey!</p>
+<p align="center">Hi there, I'm Vinicius, 25y, a former psychologist who turned my life upside down to become a dev. Hope we can have fun together on this journey!</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viniciusmeirelless" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 FrontEnd Developer Intern at Compass.UOL
+- 🔭 Junior Front-End Developer 
 - 🌱 Currently learning: <img align="center" alt="Vini-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img align="center" alt="Vini-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img align="center" alt="Vini-React" src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white">
 - 🤔 Feel free to send me some feedback or tips
 
