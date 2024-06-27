@@ -8,17 +8,16 @@
 </p>
 
 
-- 🔭 Junior Front-End Developer 
-- 🌱 Currently learning: <img align="center" alt="Vini-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img align="center" alt="Vini-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img align="center" alt="Vini-React" src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white">
+- 🔭 Front-End Development 
+- 🌱 Currently learning: <img align="center" alt="Vini-Ts" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"><img align="center" alt="Vini-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img align="center" alt="Vini-Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 - 🤔 Feel free to send me some feedback or tips
 
 ## ⚡ Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,typescript,mysql,git,figma,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,python,mysql,git,figma,aws" />
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevili&hide=html,css,java&size_weight=0.5&count_weight=0.5&theme=outrun&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-[![Vimevili's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimevili&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevili&hide=html,css,java&size_weight=0.5&count_weight=0.5&theme=outrun&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
