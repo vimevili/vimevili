@@ -1,6 +1,6 @@
 <h1 align="center"> 🏳️‍🌈 Welcome 🏳️‍🌈 </h1> 
 
-<p align="center">Hi there, I'm Vinicius, 25y, a former psychologist who turned my life upside down to become a dev. Hope we can have fun together on this journey!</p>
+<p align="center">Hi there, I'm Vinicius, 26y, a former psychologist who turned my life upside down to become a dev. Hope we can have fun together on this journey!</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viniciusmeirelless" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -15,7 +15,7 @@
 ## ⚡ Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,python,mysql,git,figma,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,materialui,python,mysql,figma,aws,git,github,bitbucket" />
   </a>
 </p>
 
