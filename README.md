@@ -1,23 +1,86 @@
-<h1 align="center"> 🏳️‍🌈 Welcome 🏳️‍🌈 </h1> 
+<div align="left">
 
-<p align="center">Hi there, I'm Vinicius, 26y, a former psychologist who turned my life upside down to become a dev. Hope we can have fun together on this journey!</p>
+# Vinicius Meirelles
+### Full-Stack Software Engineer | Java & React Ecosystems
 
-<p align="center">
+<p align="left">
+<em>Software Engineer focused on building scalable back-end architectures and high-performance web applications. Committed to Clean Code principles and efficient API integration.</em>
+</p>
+
+<p align="start">
   <a href="https://www.linkedin.com/in/viniciusmeirelless" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vinicius_meirelless@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
+---
 
-- 🔭 Front-End Development 
-- 🌱 Currently learning: <img align="center" alt="Vini-Ts" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"><img align="center" alt="Vini-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img align="center" alt="Vini-Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-- 🤔 Feel free to send me some feedback or tips
+## 👨‍💻 Engineering Profile
 
-## ⚡ Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,materialui,python,mysql,figma,aws,git,github,bitbucket" />
-  </a>
+I am a **Full-Stack Engineer** transitioning from a non-technical background, driven by complex problem-solving and logic. My focus is on bridging the gap between robust server-side logic and responsive client-side applications.
+
+Currently, I am deepening my specialization in the **Java Ecosystem (Spring Boot)** for backend services while maintaining high proficiency in **React** for frontend implementation.
+
+- 🔭 **Current Focus:** Microservices architecture and RESTful API development using Spring Boot.
+- 🏗️ **Architecture:** MVC Pattern, SOLID Principles, and Database Design.
+- 💬 **Ask Me About:** Java, Spring Security, React Hooks, and System Integration.
+
+---
+
+## 🛠 Technical Stack
+
+<table>
+  <tr>
+    <td align="center" width="120"><b>Back-End & Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Front-End</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Database & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Key Projects (Architecture & Logic)
+
+### 💼 [Full-Stack E-Commerce Architecture](https://github.com/vimevili/audio-ecommerce)
+**Stack:** TypeScript + React | Java + Spring Boot | Supabase PostgreSQL 
+- **Challenge:** Building a scalable sales platform with separation of concerns.
+- **Solution:** Architected a clear separation between the client-side (Next.js/React) and server-side logic (Java). 
+- **Key Features:** Implemented JWT Authentication flows, DTO pattern for data transfer, and responsive UI components.
+
+---
+
+## 📈 Metrics
+
+<div align="left">
+<!-- <a href="https://wakatime.com/@vimevili">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vimevili&layout=compact&theme=graywhite&hide_border=true" />
+</a>   -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimevili&layout=compact&hide=html,css,jupyter%20notebook&theme=graywhite&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vimevili&label=Profile%20Views&color=blueviolet&style=flat-square" alt="watchers" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimevili&hide=html,css,java&size_weight=0.5&count_weight=0.5&theme=outrun&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
