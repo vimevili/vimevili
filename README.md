@@ -74,5 +74,6 @@ Currently, I am deepening my specialization in the **Java Ecosystem (Spring Boot
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimevili&layout=compact&hide=html,css,jupyter%20notebook&theme=graywhite&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <a href="https://wakatime.com/@vimevili"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=vimevili&layout=compact&theme=graywhite&hide_border=true" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimevili&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" />
 </div>
