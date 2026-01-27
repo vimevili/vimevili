@@ -83,6 +83,8 @@ Currently, I am deepening my specialization in the **Java Ecosystem (Spring Boot
 <!--START_SECTION:waka-->
 
 ```txt
+From: 20 January 2026 - To: 27 January 2026
+
 Java   4 mins          █████████████████████████   100.00 %
 ```
 
