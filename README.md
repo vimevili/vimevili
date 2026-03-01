@@ -83,7 +83,7 @@ Currently, I am deepening my specialization in the **Java Ecosystem (Spring Boot
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2026 - To: 28 February 2026
+From: 22 February 2026 - To: 01 March 2026
 
 JavaScript        6 hrs                 ██████████▒░░░░░░░░░░░░░░   41.34 %
 Java              5 hrs 52 mins         ██████████░░░░░░░░░░░░░░░   40.50 %
