@@ -83,13 +83,13 @@ Currently, I am deepening my specialization in the **Java Ecosystem (Spring Boot
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2026 - To: 05 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
-Java              3 hrs 47 mins         █████████████████▒░░░░░░░   69.61 %
-Vue.js            58 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-TypeScript        19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Java Properties   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-JavaScript        4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Vue.js            58 mins               ████████████▓░░░░░░░░░░░░   51.10 %
+Java              23 mins               █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+TypeScript        19 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+JavaScript        4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+JSON              4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
